@@ -48,12 +48,12 @@ B] EXERCICE CALCULETTE
 
 # Consignes d'utilisation
 
-1.  Chauffe 
-## Tests en local:
+ 
+## 1.  Chauffe : Tests en local:
 Pour ouvrir les exercices de chauffe et les tester il vous suffit d'utiliser un tester en ligne comme : https://jsfiddle.net/  et de copier coder notre code. 
 
-2.  Calculette 
-## Tests en local:
+
+## 2.  Calculette Tests en local:
 
 il faut downloader le dossier, se placer dedans et dans dans votre terminal et lancer en commande:
 
@@ -77,7 +77,7 @@ et Tester la Version en Localhost en allant dans ton navigateur sur :
 > localhost:3000
 
 
-## Test en ligne:
+## 2.  Calculette Test en ligne:
 
 Aller sur les liens Heroku suivants
 
