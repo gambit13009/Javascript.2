@@ -57,6 +57,16 @@ button.hover {
 	color:#555;
 }
 
+textarea {
+
+	width: 315px;
+	height:40px;
+	background: linear-gradient(45deg, #10abff, white);
+	padding: 15px;
+	border-radius: 9999em;
+	font:bold 10px Arial;
+}
+
 input {
 	width:315px;
 	height:40px;
@@ -84,6 +94,8 @@ input {
 
 
 body { background: #000; color: #fff; position: relative;}
+
+
 
 .chrome {
   position: relative;

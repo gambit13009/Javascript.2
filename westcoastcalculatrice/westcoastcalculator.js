@@ -31,14 +31,14 @@ function calcul(){
 		value = 0;
 		}	
 	else {
-	document.getElementById('input2').value+= document.getElementById('input').value;
+	document.getElementById('input2').value+=  "\n" +document.getElementById('input').value;
 	var somme = document.getElementById("input").value;
 	document.getElementById("input").value = eval(somme);
 	}
 }
 
 function clear1(){
-	document.getElementById('input2').value+= document.getElementById('input').value;
+	document.getElementById('input2').value+= "\n" + document.getElementById('input').value;
 	document.getElementById('input').value= "0";
 }
 
