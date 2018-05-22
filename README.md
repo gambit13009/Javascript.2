@@ -40,7 +40,7 @@ B] EXERCICE CALCULETTE
 1) Une calculette qui marche avec un Backend et front tout deux opérationel 
 2) Une calculette qui marche avec fonction Clear
 3) Une calculette qui marche avec fonction Plusieurs opérations à la suite
-4) Donner de la forme à nos pages en intégrant un template WrapBootstrap
+4) Donner de la forme à nos pages en intégrant du style css 
 
 ------------   
 
