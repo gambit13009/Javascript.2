@@ -49,21 +49,16 @@ B] EXERCICE CALCULETTE
 # Consignes d'utilisation
 
  
-## 1.  Chauffe : Tests en local:
-Pour ouvrir les exercices de chauffe et les tester il vous suffit d'utiliser un tester en ligne comme : https://jsfiddle.net/  et de copier coder notre code. 
 
+## Test en ligne:
 
-## 2.  Calculette Tests en local:
+Aller sur les liens rawgit suivant :
 
-il faut downloader le dossier, se placer dedans et cliquer sur le fichier index.html 
-
-
-
-## 2.  Calculette Test en ligne:
-
-Aller sur le lien rawgit suivant :
+https://cdn.rawgit.com/Maxmala/Javascript.2/0890664f/Exercice%20de%20chauffe/index.html
 
 https://cdn.rawgit.com/Maxmala/Javascript.2/d8d55d2a/westcoastcalculatrice/index.html
+
+
 
 
 
