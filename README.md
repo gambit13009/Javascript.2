@@ -61,11 +61,9 @@ il faut downloader le dossier, se placer dedans et cliquer sur le fichier index.
 
 ## 2.  Calculette Test en ligne:
 
-Aller sur le lien rawgit suivants
+Aller sur le lien rawgit suivant :
 
-
-
-
+https://cdn.rawgit.com/Maxmala/Javascript.2/d8d55d2a/westcoastcalculatrice/index.html
 
 
 
