@@ -1,6 +1,6 @@
 function my_max1(){
 var numbers = [1,2,3,4,5,6,7,8];
-return Math.max(numbers);
+return Math.my_max1(numbers);
 }
 alert(my_max1());
 
