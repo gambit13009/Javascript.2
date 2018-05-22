@@ -9,11 +9,46 @@
 
 
 <body>
-<h1> westcoastcalculator </h1>
+<p>
+<div id="wrapper" onload="front()">
+  <h1 class="chrome">CALCULATOR</h1>
+  <h3 class="dreams">West Coast Marseille</h3>
+</div>
+<table>
+<tr>
+<textarea id="input2" type="text" style="text-align: right" value="" placeholder="0"></textarea>
+<input id="input" type="text" style="text-align: right" value="" placeholder="0"></input>
+<tr>	
+<tr>
+<td> <button id="buttonchiffre" type="button" value="7" onclick="show(this.value)">7</button></td>
+<td> <button id="buttonchiffre" type="button" value="8" onclick="show(this.value)">8</button></td>
+<td> <button id="buttonchiffre" type="button" value="9" onclick="show(this.value)">9</button></td>
+<td> <button type="button" value="/" onclick="show(this.value)">/</button></td>
+<tr>
+<td> <button id="buttonchiffre" type="button" value="4" onclick="show(this.value)">4</button></td>
+<td> <button id="buttonchiffre" type="button" value="5" onclick="show(this.value)">5</button></td>
+<td> <button id="buttonchiffre" type="button" value="6" onclick="show(this.value)">6</button></td>
+<td> <button type="button" value="*" onclick="show(this.value)">*</button></td>
+</tr>
+<tr>
+<td> <button id="buttonchiffre" type="button" value="1" onclick="show(this.value)">1</button></td>
+<td> <button id="buttonchiffre" type="button" value="2" onclick="show(this.value)">2</button></td>
+<td> <button id="buttonchiffre" type="button" value="3" onclick="show(this.value)">3</button></td>
+<td> <button type="button" value="-" onclick="show(this.value)">-</button></td>
+</tr>
+<tr>
+<td> <button id="buttonchiffre" type="button" value="0" onclick="show(this.value)">0</button></td>
+<td> <button id="buttonegal" type="button" onclick="calcul()">=</button></td>
+<td> <button id="buttonclear" type="button" onclick="clear1()">C</button></td>
+<td> <button type="button" value="+" onclick="show(this.value)">+</button></td>
+</tr>
+</table>
 
-
-
+</p>
 <script src="westcoastcalculator.js"></script>
+
+
+
 </body>
 
 
