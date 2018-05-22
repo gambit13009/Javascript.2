@@ -32,15 +32,15 @@ Pour ce Mardi 22 Mai 2018 dans le cadre de l'approfondissement du langage Javasc
 Notre cahier des charges :
 
 A] EXERCICE CHAUFFE JS
-1) 
-2)
-3) Faire une fonction qui prend un string et qui renvoie les caractères en position inverse. Ainsi, Bonjour monde
+1) Une fonction qui prend une array et qui retourne le nombre maximum
+2) Une fonction qui prend un string et qui retourne le nombre de voyelles
+3) Faire une fonction qui prend un string et qui renvoie les caractères en position inverse.
 
 B] EXERCICE CALCULETTE
-1) Donner de la forme à nos pages en intégrant un template WrapBootstrap
-2) Faire plusieurs landing pages (une pour les Anglophones, une pour les Marseillais et une pour les étudiants)
-3) Avoir un service de mailer, avec une newsletter de la bombe
-4) Faire tourner nos opérations marketing grâce au Heroku Scheduler, pour avoir un afflux constant de personnes qui vont sur notre site
+1) Une calculette qui marche avec un Backend et front tout deux opérationel 
+2) Une calculette qui marche avec fonction Clear
+3) Une calculette qui marche avec fonction Plusieurs opérations à la suite
+4) Donner de la forme à nos pages en intégrant un template WrapBootstrap
 
 ------------   
 
@@ -48,15 +48,12 @@ B] EXERCICE CALCULETTE
 
 # Consignes d'utilisation
 
+1.  Chauffe 
 ## Tests en local:
+Pour ouvrir les exercices de chauffe et les tester il vous suffit d'utiliser un tester en ligne comme : https://jsfiddle.net/  et de copier coder notre code. 
 
-
-Pour ouvrir chaque app et les tester il vous suffit d'utiliser un tester en ligne comme : https://jsfiddle.net/
-et de copier coder notre code. 
-
-
-
-
+2.  Calculette 
+## Tests en local:
 
 il faut downloader le dossier, se placer dedans et dans dans votre terminal et lancer en commande:
 
@@ -78,9 +75,6 @@ Puis ouvrir le fichier sqlite dans le dossier db de l'app, soit avec dbBrowser s
 et Tester la Version en Localhost en allant dans ton navigateur sur :
 
 > localhost:3000
-
-
-
 
 
 ## Test en ligne:
@@ -153,7 +147,8 @@ Aller sur les liens Heroku suivants
 
 # Résultats
 
-2 bots, un instagram et l'autre twitter qui on bien scrappé, liké, follow et comenté avec l'adresse des trois pages.
+Exercixes de chauffes tous ok
+Calculette fonctionelle ! 
 
 
 A vous de voir !
